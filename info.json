@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1044.3645000000001,
+    "videos": [
         "Elvis Presley - I'm Gonna Sit Right Down And Cry (1956)-6Gj2_5T41F8.mp4",
         "David Bowie - 'Please Mr. Gravedigger' - 1967-HUSeHx631Wk.mp4",
         "Carmen Arvale-4JQ5GjVnU8k.mp4",
@@ -100,7 +101,5 @@
         "El Cristal De Mi Copa-Hho_3wyI1gk.mp4",
         "the smiths - barbarism begins at home - TheTube-peh6JCBoznk.mp4",
         "Gatillazo - Odio a los partidos Directo PintorRock 2017-zqOkKWes5hE.mp4"
-    ],
-    "id": "h",
-    "total_size": 995.9830703125
+    ]
 }
