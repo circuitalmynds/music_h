@@ -1,105 +1,496 @@
 {
     "available_space": false,
-    "total_size": 1044.3645000000001,
-    "videos": [
-        "Elvis Presley - I'm Gonna Sit Right Down And Cry (1956)-6Gj2_5T41F8.mp4",
-        "David Bowie - 'Please Mr. Gravedigger' - 1967-HUSeHx631Wk.mp4",
-        "Carmen Arvale-4JQ5GjVnU8k.mp4",
-        "Catorce vidas son dos gatos-C3oe92GsJPU.mp4",
-        "Pesado - Mi Promesa (Video Oficial)-amKAOtea34c.mp4",
-        "Martires del Rock and Roll-J5Mv8dvbr-g.mp4",
-        "Almost Like Being In Love (Remastered)-rApruNQhJ7I.mp4",
-        "Piperrak - Anarkía-EoJY3zRSP7w.mp4",
-        "Chuy vega  Te Sigo Amando-EnqSm9VQtHc.mp4",
-        "3 Golden Oldies # 4-rSO80H3ITvU.mp4",
-        "Ave de Paso (1967) Sandro-TjyRUeML6nc.mp4",
-        "Emperor - Night of the Graveless Souls (w_ lyrics)-Sr4rmY6bTSk.mp4",
-        "Café Tacvba - Ojalá que llueva café ft. Aníbal & Iván--iO5bmshzeg.mp4",
-        "Los Cadetes de Linares - Las Tres Tumbas (En Vivo Desde Houston, Tx)-ul_FefigLaE.mp4",
-        "Problemas-F8kjKAk5PE8.mp4",
-        "Sublime - Santeria (Official Music Video)-AEYN5w4T_aM.mp4",
-        "A_political - Free Trade In Death-YSOKluMcqqo.mp4",
-        "Fugazi -  Waiting Room-SGJFWirQ3ks.mp4",
-        "Valerie (2003 Digital Remaster)-0vJ0LhuVegI.mp4",
-        "Espécimen Solo restos-uTIzmo7Ouf0.mp4",
-        "A Letter To An Angel ~ Jimmy Clanton (1958)-MzM9Lkx5s9c.mp4",
-        "Los Cadetes de Linares - La Vida de Medrano-8emw_o_Q-Eo.mp4",
-        "A Chain Of Flowers-Qvfn4JjEJAE.mp4",
-        "DAMACO x XCESE - SICARIO (VIDEO OFICIAL)-9qoNyxz_LKo.mp4",
-        "Here Comes The Kraken - Knights From Southside-YdbXrp2kZGg.mp4",
-        "SANTURCE-V2sKx3Cxgi0.mp4",
-        "Creedence Clearwater Revival - Lookin' Out My Back Door (Official Video)-Aae_RHRptRg.mp4",
-        "TE VA A DOLER EL CORAZON - BANDA PLAYA GRANDE (VIDEO OFICIAL)-oxwVlKn-YoA.mp4",
-        "Great Balls of Fire - Jerry Lee Lewis _ Karaoke Version _ KaraFun-0kvK22_9bxE.mp4",
-        "Envidia Kotxina - Acaba ya-sYId86fmmQs.mp4",
-        "Hermanos Vega Tino Nevares-mGnfGvBcA1k.mp4",
-        "LImpératrice ♗ VANILLE FRAISE.mp4",
-        "A Part Of Me ~ Jimmy Clanton (1958)-IReoLWRw3ag.mp4",
-        "Conjunto Azabache - Se Tambalea-pJWMWG-iy5g.mp4",
-        "Sucio Criminal-flrVeRtDako.mp4",
-        "Ella Fitzgerald - It's foxy-OX1utJaF7bU.mp4",
-        "Flamenco Diablo-R5NiBESC3Wc.mp4",
-        "Anuel AA,  Farruko y  Zion- Que Se J_ (Video Oficial)-ZGtQQLI9bOA.mp4",
-        "Calle 13 - No Hay Nadie Como Tú (Video) ft. Café Tacuba-t0DeJ5HeG8o.mp4",
-        "El Hijo Del Campo-sN8wimDMnto.mp4",
-        "Moby - Why Does My Heart Feel So Bad-qT6XCvDUUsU.mp4",
-        "Día luna...Día pena-a5XiqblCtJg.mp4",
-        "Crass - Smash The Mac (1984)-sVR--Zjdisw.mp4",
-        "Fools Paradise by Buddy Holly-fU4bmVche_4.mp4",
-        "Hermanos Vega Bule De Agua Fresca-mJbcbVbQ6l8.mp4",
-        "Fallas del sistema - Alto a la violencia-EHTi0Kh0m-Y.mp4",
-        "Feels So Good - Chuck Mangione [FULL VERSION]-NDSBV0vTfTo.mp4",
-        "GEMA - LOS DANDYS-2xYtdMo80mA.mp4",
-        "Cuanta cacota I-4gkHw00BBD4.mp4",
-        "Cartel de Santa - Con el Coco Rapado (Video)-wyfzJMBOa5k.mp4",
-        "HNOS VEGA - EL BASURERO-B2RzbUbw-ZQ.mp4",
-        "Howlin' Wolf - Howlin' For My Darling-BpfcPAUXWGc.mp4",
-        "Ese Día Piensa en Mí (Remasterizado)-Ns9BADPieJQ.mp4",
-        "♪♫FACIL Y ACCESIBLE♪♫ PESADO-k6HbPsb9sbI.mp4",
-        "SAXOPHONE  -  SOUVENIR  (ITALO DISCO) FULL HD-aquk_WDbybg.mp4",
-        "Shake It Up (2003 Digital Remaster)-126fRWEBUuU.mp4",
-        "Conjunto Primavera - Te Lloré-BXcZ1ddzLrY.mp4",
-        "Elektroduendes  Salgo a la calle-IXLzgCVJcX4.mp4",
-        "Easy Star All-Stars - Any Dub You Like-bezv7XxvIJY.mp4",
-        "Chuy vega  Jamás Me Cansare De Ti-wid8eJ3SPA4.mp4",
-        "10_15 Saturday Night-vBsrG5ATbUA.mp4",
-        "Stray Cats- I Won't Stand In Your Way-J1kUu3EkKMI.mp4",
-        "El Muerto-R1XwWMEfnbQ.mp4",
-        "Falling and Laughing-MTCCu8t8y-I.mp4",
-        "Gipsy Kings - Volare (Official Video)-qmbx4_TQbkA.mp4",
-        "Goo Goo Dolls - Iris [Official Music Video]-NdYWuo9OFAw.mp4",
-        "Amiga-9AgybudOw9Q.mp4",
-        "Decias que no - Invasores de Nuevo León-BKGp5diYtDY.mp4",
-        "3 Golden Oldies # 5-ylxaiVrlVII.mp4",
-        "Corrido Jodido-kRPYPTNIA2U.mp4",
-        "Secret - Maroon 5-eEw1QqxNWAU.mp4",
-        "David Bowie Starman (1972) official video-sI66hcu9fIs.mp4",
-        "Guy Mitchell - Heartache by the Numbers 50s-fmRjgWW8yn0.mp4",
-        "Buena Vibra Social Sound - Latin goes Ska-dhjBEkb02tU.mp4",
-        "Carlos Puebla - Comandante Che Guevara--RYQQ518aEo.mp4",
-        "From First To Last - Shame Shame-TPSb7yJeQHs.mp4",
-        "Carcass - Incarnated Solvent Abuse [Official Video]-AfjYYh2AWrs.mp4",
-        "Talking Heads - Once In A Lifetime (Official Audio)-fR0jgT9UX0Q.mp4",
-        "Carne de Alquiler-yyYqpZhLLxM.mp4",
-        "Horror Hotel-REYXN8sLNKA.mp4",
-        "A Will Kill Ya--19H6J2k3nw.mp4",
-        "Cygnus... Vismund Cygnus-jnw7Hi6iIKE.mp4",
-        "Gallo rojo, gallo negro _ Sílvia Pérez Cruz i Raül Fernández-k7KmM8cwiZM.mp4",
-        "Hermanos Vega el mecatito-ejYC9ymzKIA.mp4",
-        "CONJUNTO AZABACHE - QUIEREME COMO TE QUIERO--077-RAYBgo.mp4",
-        "Stone Temple Pilots - Creep (Official Music Video)-sT1DdO3SISg.mp4",
-        "Esperando (feat. Tonatiuh Castro Silva)-Bl3qsnm2LP0.mp4",
-        "Goldfinger - 99 Red Balloons-p-qfzH0vnOs.mp4",
-        "ALMA, CORAZON Y VIDA-NYy178y8c4Q.mp4",
-        "Café Tacvba - Eres (Video Oficial)-98Akpf1ph2o.mp4",
-        "Coldplay - Lovers in Japan_Reign of love-s_7jJ0sO0Yg.mp4",
-        "El Texano-lZXtuw1tBrs.mp4",
-        "Junior H Ft. Natanael Cano - Si Mañana (Letra_Lyric Video) 2020-f8t6MbAigvI.mp4",
-        "''DESCANSA GENERAL'' Los Cadetes De Linares-lOUG3PV4sGw.mp4",
-        "Chuy vega  Hazlo Por  Mi Corazon-1lbMrOhBut4.mp4",
-        "Caifanes - Amanece (Demo 1 1987)-hHz-M4h_gyQ.mp4",
-        "El Cristal De Mi Copa-Hho_3wyI1gk.mp4",
-        "the smiths - barbarism begins at home - TheTube-peh6JCBoznk.mp4",
-        "Gatillazo - Odio a los partidos Directo PintorRock 2017-zqOkKWes5hE.mp4"
-    ]
+    "files": [
+        {
+            "name": "Los Cadetes de Linares - La Vida de Medrano-Ng8mU8NZnq0.mp4",
+            "path": "music_h/videos/Los Cadetes de Linares - La Vida de Medrano-Ng8mU8NZnq0.mp4",
+            "size": 3.7971742720000004
+        },
+        {
+            "name": "Los Cadetes de Linares - Las Tres Tumbas (En Vivo Desde Houston, Tx)-7qB0N1gkTzw.mp4",
+            "path": "music_h/videos/Los Cadetes de Linares - Las Tres Tumbas (En Vivo Desde Houston, Tx)-7qB0N1gkTzw.mp4",
+            "size": 16.827619328
+        },
+        {
+            "name": "Elvis Presley - I'm Gonna Sit Right Down And Cry (1956)-6Gj2_5T41F8.mp4",
+            "path": "music_h/videos/Elvis Presley - I'm Gonna Sit Right Down And Cry (1956)-6Gj2_5T41F8.mp4",
+            "size": 3.6206653440000003
+        },
+        {
+            "name": "David Bowie - 'Please Mr. Gravedigger' - 1967-HUSeHx631Wk.mp4",
+            "path": "music_h/videos/David Bowie - 'Please Mr. Gravedigger' - 1967-HUSeHx631Wk.mp4",
+            "size": 3.175251968
+        },
+        {
+            "name": "Carmen Arvale-4JQ5GjVnU8k.mp4",
+            "path": "music_h/videos/Carmen Arvale-4JQ5GjVnU8k.mp4",
+            "size": 2.427459584
+        },
+        {
+            "name": "Catorce vidas son dos gatos-C3oe92GsJPU.mp4",
+            "path": "music_h/videos/Catorce vidas son dos gatos-C3oe92GsJPU.mp4",
+            "size": 16.526798848000002
+        },
+        {
+            "name": "Pesado - Mi Promesa (Video Oficial)-amKAOtea34c.mp4",
+            "path": "music_h/videos/Pesado - Mi Promesa (Video Oficial)-amKAOtea34c.mp4",
+            "size": 19.054586880000002
+        },
+        {
+            "name": "Martires del Rock and Roll-J5Mv8dvbr-g.mp4",
+            "path": "music_h/videos/Martires del Rock and Roll-J5Mv8dvbr-g.mp4",
+            "size": 8.65427968
+        },
+        {
+            "name": "Almost Like Being In Love (Remastered)-rApruNQhJ7I.mp4",
+            "path": "music_h/videos/Almost Like Being In Love (Remastered)-rApruNQhJ7I.mp4",
+            "size": 3.387374592
+        },
+        {
+            "name": "Piperrak - Anarkía-EoJY3zRSP7w.mp4",
+            "path": "music_h/videos/Piperrak - Anarkía-EoJY3zRSP7w.mp4",
+            "size": 5.24964864
+        },
+        {
+            "name": "Chuy vega  Te Sigo Amando-EnqSm9VQtHc.mp4",
+            "path": "music_h/videos/Chuy vega  Te Sigo Amando-EnqSm9VQtHc.mp4",
+            "size": 2.849726464
+        },
+        {
+            "name": "3 Golden Oldies # 4-rSO80H3ITvU.mp4",
+            "path": "music_h/videos/3 Golden Oldies # 4-rSO80H3ITvU.mp4",
+            "size": 13.096071168
+        },
+        {
+            "name": "Ave de Paso (1967) Sandro-TjyRUeML6nc.mp4",
+            "path": "music_h/videos/Ave de Paso (1967) Sandro-TjyRUeML6nc.mp4",
+            "size": 8.784441344000001
+        },
+        {
+            "name": "Emperor - Night of the Graveless Souls (w_ lyrics)-Sr4rmY6bTSk.mp4",
+            "path": "music_h/videos/Emperor - Night of the Graveless Souls (w_ lyrics)-Sr4rmY6bTSk.mp4",
+            "size": 5.341891584000001
+        },
+        {
+            "name": "Café Tacvba - Ojalá que llueva café ft. Aníbal & Iván--iO5bmshzeg.mp4",
+            "path": "music_h/videos/Café Tacvba - Ojalá que llueva café ft. Aníbal & Iván--iO5bmshzeg.mp4",
+            "size": 24.879542272000002
+        },
+        {
+            "name": "Problemas-F8kjKAk5PE8.mp4",
+            "path": "music_h/videos/Problemas-F8kjKAk5PE8.mp4",
+            "size": 4.05377536
+        },
+        {
+            "name": "Sublime - Santeria (Official Music Video)-AEYN5w4T_aM.mp4",
+            "path": "music_h/videos/Sublime - Santeria (Official Music Video)-AEYN5w4T_aM.mp4",
+            "size": 13.76520192
+        },
+        {
+            "name": "A_political - Free Trade In Death-YSOKluMcqqo.mp4",
+            "path": "music_h/videos/A_political - Free Trade In Death-YSOKluMcqqo.mp4",
+            "size": 4.300465152
+        },
+        {
+            "name": "Fugazi -  Waiting Room-SGJFWirQ3ks.mp4",
+            "path": "music_h/videos/Fugazi -  Waiting Room-SGJFWirQ3ks.mp4",
+            "size": 11.536754688
+        },
+        {
+            "name": "Valerie (2003 Digital Remaster)-0vJ0LhuVegI.mp4",
+            "path": "music_h/videos/Valerie (2003 Digital Remaster)-0vJ0LhuVegI.mp4",
+            "size": 5.22172928
+        },
+        {
+            "name": "Espécimen Solo restos-uTIzmo7Ouf0.mp4",
+            "path": "music_h/videos/Espécimen Solo restos-uTIzmo7Ouf0.mp4",
+            "size": 16.394913792
+        },
+        {
+            "name": "A Letter To An Angel ~ Jimmy Clanton (1958)-MzM9Lkx5s9c.mp4",
+            "path": "music_h/videos/A Letter To An Angel ~ Jimmy Clanton (1958)-MzM9Lkx5s9c.mp4",
+            "size": 9.700957184
+        },
+        {
+            "name": "A Chain Of Flowers-Qvfn4JjEJAE.mp4",
+            "path": "music_h/videos/A Chain Of Flowers-Qvfn4JjEJAE.mp4",
+            "size": 6.405908480000001
+        },
+        {
+            "name": "DAMACO x XCESE - SICARIO (VIDEO OFICIAL)-9qoNyxz_LKo.mp4",
+            "path": "music_h/videos/DAMACO x XCESE - SICARIO (VIDEO OFICIAL)-9qoNyxz_LKo.mp4",
+            "size": 12.589224960000001
+        },
+        {
+            "name": "Here Comes The Kraken - Knights From Southside-YdbXrp2kZGg.mp4",
+            "path": "music_h/videos/Here Comes The Kraken - Knights From Southside-YdbXrp2kZGg.mp4",
+            "size": 7.276163072
+        },
+        {
+            "name": "SANTURCE-V2sKx3Cxgi0.mp4",
+            "path": "music_h/videos/SANTURCE-V2sKx3Cxgi0.mp4",
+            "size": 2.840772608
+        },
+        {
+            "name": "Creedence Clearwater Revival - Lookin' Out My Back Door (Official Video)-Aae_RHRptRg.mp4",
+            "path": "music_h/videos/Creedence Clearwater Revival - Lookin' Out My Back Door (Official Video)-Aae_RHRptRg.mp4",
+            "size": 12.96719872
+        },
+        {
+            "name": "TE VA A DOLER EL CORAZON - BANDA PLAYA GRANDE (VIDEO OFICIAL)-oxwVlKn-YoA.mp4",
+            "path": "music_h/videos/TE VA A DOLER EL CORAZON - BANDA PLAYA GRANDE (VIDEO OFICIAL)-oxwVlKn-YoA.mp4",
+            "size": 16.574454784
+        },
+        {
+            "name": "Great Balls of Fire - Jerry Lee Lewis _ Karaoke Version _ KaraFun-0kvK22_9bxE.mp4",
+            "path": "music_h/videos/Great Balls of Fire - Jerry Lee Lewis _ Karaoke Version _ KaraFun-0kvK22_9bxE.mp4",
+            "size": 8.539117568
+        },
+        {
+            "name": "Envidia Kotxina - Acaba ya-sYId86fmmQs.mp4",
+            "path": "music_h/videos/Envidia Kotxina - Acaba ya-sYId86fmmQs.mp4",
+            "size": 4.594063360000001
+        },
+        {
+            "name": "Hermanos Vega Tino Nevares-mGnfGvBcA1k.mp4",
+            "path": "music_h/videos/Hermanos Vega Tino Nevares-mGnfGvBcA1k.mp4",
+            "size": 5.4693877760000005
+        },
+        {
+            "name": "A Part Of Me ~ Jimmy Clanton (1958)-IReoLWRw3ag.mp4",
+            "path": "music_h/videos/A Part Of Me ~ Jimmy Clanton (1958)-IReoLWRw3ag.mp4",
+            "size": 8.137406464
+        },
+        {
+            "name": "Conjunto Azabache - Se Tambalea-pJWMWG-iy5g.mp4",
+            "path": "music_h/videos/Conjunto Azabache - Se Tambalea-pJWMWG-iy5g.mp4",
+            "size": 18.888378368
+        },
+        {
+            "name": "Sucio Criminal-flrVeRtDako.mp4",
+            "path": "music_h/videos/Sucio Criminal-flrVeRtDako.mp4",
+            "size": 7.097494528
+        },
+        {
+            "name": "Ella Fitzgerald - It's foxy-OX1utJaF7bU.mp4",
+            "path": "music_h/videos/Ella Fitzgerald - It's foxy-OX1utJaF7bU.mp4",
+            "size": 4.252504064
+        },
+        {
+            "name": "Flamenco Diablo-R5NiBESC3Wc.mp4",
+            "path": "music_h/videos/Flamenco Diablo-R5NiBESC3Wc.mp4",
+            "size": 5.635970048000001
+        },
+        {
+            "name": "Anuel AA,  Farruko y  Zion- Que Se J_ (Video Oficial)-ZGtQQLI9bOA.mp4",
+            "path": "music_h/videos/Anuel AA,  Farruko y  Zion- Que Se J_ (Video Oficial)-ZGtQQLI9bOA.mp4",
+            "size": 23.135771648000002
+        },
+        {
+            "name": "Calle 13 - No Hay Nadie Como Tú (Video) ft. Café Tacuba-t0DeJ5HeG8o.mp4",
+            "path": "music_h/videos/Calle 13 - No Hay Nadie Como Tú (Video) ft. Café Tacuba-t0DeJ5HeG8o.mp4",
+            "size": 22.80984576
+        },
+        {
+            "name": "El Hijo Del Campo-sN8wimDMnto.mp4",
+            "path": "music_h/videos/El Hijo Del Campo-sN8wimDMnto.mp4",
+            "size": 6.506142720000001
+        },
+        {
+            "name": "Moby - Why Does My Heart Feel So Bad-qT6XCvDUUsU.mp4",
+            "path": "music_h/videos/Moby - Why Does My Heart Feel So Bad-qT6XCvDUUsU.mp4",
+            "size": 11.37547776
+        },
+        {
+            "name": "Día luna...Día pena-a5XiqblCtJg.mp4",
+            "path": "music_h/videos/Día luna...Día pena-a5XiqblCtJg.mp4",
+            "size": 3.645964288
+        },
+        {
+            "name": "Crass - Smash The Mac (1984)-sVR--Zjdisw.mp4",
+            "path": "music_h/videos/Crass - Smash The Mac (1984)-sVR--Zjdisw.mp4",
+            "size": 10.69971456
+        },
+        {
+            "name": "Fools Paradise by Buddy Holly-fU4bmVche_4.mp4",
+            "path": "music_h/videos/Fools Paradise by Buddy Holly-fU4bmVche_4.mp4",
+            "size": 4.573633536
+        },
+        {
+            "name": "Hermanos Vega Bule De Agua Fresca-mJbcbVbQ6l8.mp4",
+            "path": "music_h/videos/Hermanos Vega Bule De Agua Fresca-mJbcbVbQ6l8.mp4",
+            "size": 6.555171840000001
+        },
+        {
+            "name": "Fallas del sistema - Alto a la violencia-EHTi0Kh0m-Y.mp4",
+            "path": "music_h/videos/Fallas del sistema - Alto a la violencia-EHTi0Kh0m-Y.mp4",
+            "size": 27.089041408
+        },
+        {
+            "name": "Feels So Good - Chuck Mangione [FULL VERSION]-NDSBV0vTfTo.mp4",
+            "path": "music_h/videos/Feels So Good - Chuck Mangione [FULL VERSION]-NDSBV0vTfTo.mp4",
+            "size": 17.918168064
+        },
+        {
+            "name": "GEMA - LOS DANDYS-2xYtdMo80mA.mp4",
+            "path": "music_h/videos/GEMA - LOS DANDYS-2xYtdMo80mA.mp4",
+            "size": 8.628581376000001
+        },
+        {
+            "name": "Cuanta cacota I-4gkHw00BBD4.mp4",
+            "path": "music_h/videos/Cuanta cacota I-4gkHw00BBD4.mp4",
+            "size": 3.42859776
+        },
+        {
+            "name": "Cartel de Santa - Con el Coco Rapado (Video)-wyfzJMBOa5k.mp4",
+            "path": "music_h/videos/Cartel de Santa - Con el Coco Rapado (Video)-wyfzJMBOa5k.mp4",
+            "size": 17.405615104000002
+        },
+        {
+            "name": "HNOS VEGA - EL BASURERO-B2RzbUbw-ZQ.mp4",
+            "path": "music_h/videos/HNOS VEGA - EL BASURERO-B2RzbUbw-ZQ.mp4",
+            "size": 9.422040064
+        },
+        {
+            "name": "Howlin' Wolf - Howlin' For My Darling-BpfcPAUXWGc.mp4",
+            "path": "music_h/videos/Howlin' Wolf - Howlin' For My Darling-BpfcPAUXWGc.mp4",
+            "size": 4.1346037760000005
+        },
+        {
+            "name": "Ese Día Piensa en Mí (Remasterizado)-Ns9BADPieJQ.mp4",
+            "path": "music_h/videos/Ese Día Piensa en Mí (Remasterizado)-Ns9BADPieJQ.mp4",
+            "size": 6.375671808000001
+        },
+        {
+            "name": "♪♫FACIL Y ACCESIBLE♪♫ PESADO-k6HbPsb9sbI.mp4",
+            "path": "music_h/videos/♪♫FACIL Y ACCESIBLE♪♫ PESADO-k6HbPsb9sbI.mp4",
+            "size": 9.896628224
+        },
+        {
+            "name": "SAXOPHONE  -  SOUVENIR  (ITALO DISCO) FULL HD-aquk_WDbybg.mp4",
+            "path": "music_h/videos/SAXOPHONE  -  SOUVENIR  (ITALO DISCO) FULL HD-aquk_WDbybg.mp4",
+            "size": 8.208883712
+        },
+        {
+            "name": "Shake It Up (2003 Digital Remaster)-126fRWEBUuU.mp4",
+            "path": "music_h/videos/Shake It Up (2003 Digital Remaster)-126fRWEBUuU.mp4",
+            "size": 6.929629184
+        },
+        {
+            "name": "Conjunto Primavera - Te Lloré-BXcZ1ddzLrY.mp4",
+            "path": "music_h/videos/Conjunto Primavera - Te Lloré-BXcZ1ddzLrY.mp4",
+            "size": 14.76833792
+        },
+        {
+            "name": "Elektroduendes  Salgo a la calle-IXLzgCVJcX4.mp4",
+            "path": "music_h/videos/Elektroduendes  Salgo a la calle-IXLzgCVJcX4.mp4",
+            "size": 8.319236096000001
+        },
+        {
+            "name": "Easy Star All-Stars - Any Dub You Like-bezv7XxvIJY.mp4",
+            "path": "music_h/videos/Easy Star All-Stars - Any Dub You Like-bezv7XxvIJY.mp4",
+            "size": 4.83513344
+        },
+        {
+            "name": "Chuy vega  Jamás Me Cansare De Ti-wid8eJ3SPA4.mp4",
+            "path": "music_h/videos/Chuy vega  Jamás Me Cansare De Ti-wid8eJ3SPA4.mp4",
+            "size": 3.45416704
+        },
+        {
+            "name": "10_15 Saturday Night-vBsrG5ATbUA.mp4",
+            "path": "music_h/videos/10_15 Saturday Night-vBsrG5ATbUA.mp4",
+            "size": 4.834086912
+        },
+        {
+            "name": "Stray Cats- I Won't Stand In Your Way-J1kUu3EkKMI.mp4",
+            "path": "music_h/videos/Stray Cats- I Won't Stand In Your Way-J1kUu3EkKMI.mp4",
+            "size": 10.722282496
+        },
+        {
+            "name": "El Muerto-R1XwWMEfnbQ.mp4",
+            "path": "music_h/videos/El Muerto-R1XwWMEfnbQ.mp4",
+            "size": 7.590267904
+        },
+        {
+            "name": "Falling and Laughing-MTCCu8t8y-I.mp4",
+            "path": "music_h/videos/Falling and Laughing-MTCCu8t8y-I.mp4",
+            "size": 4.404929536
+        },
+        {
+            "name": "Gipsy Kings - Volare (Official Video)-qmbx4_TQbkA.mp4",
+            "path": "music_h/videos/Gipsy Kings - Volare (Official Video)-qmbx4_TQbkA.mp4",
+            "size": 18.194056192
+        },
+        {
+            "name": "Goo Goo Dolls - Iris [Official Music Video]-NdYWuo9OFAw.mp4",
+            "path": "music_h/videos/Goo Goo Dolls - Iris [Official Music Video]-NdYWuo9OFAw.mp4",
+            "size": 18.5904896
+        },
+        {
+            "name": "Amiga-9AgybudOw9Q.mp4",
+            "path": "music_h/videos/Amiga-9AgybudOw9Q.mp4",
+            "size": 3.7609144320000003
+        },
+        {
+            "name": "Decias que no - Invasores de Nuevo León-BKGp5diYtDY.mp4",
+            "path": "music_h/videos/Decias que no - Invasores de Nuevo León-BKGp5diYtDY.mp4",
+            "size": 2.6935715840000003
+        },
+        {
+            "name": "3 Golden Oldies # 5-ylxaiVrlVII.mp4",
+            "path": "music_h/videos/3 Golden Oldies # 5-ylxaiVrlVII.mp4",
+            "size": 14.462024704000001
+        },
+        {
+            "name": "Corrido Jodido-kRPYPTNIA2U.mp4",
+            "path": "music_h/videos/Corrido Jodido-kRPYPTNIA2U.mp4",
+            "size": 2.9450639360000004
+        },
+        {
+            "name": "Secret - Maroon 5-eEw1QqxNWAU.mp4",
+            "path": "music_h/videos/Secret - Maroon 5-eEw1QqxNWAU.mp4",
+            "size": 7.30556416
+        },
+        {
+            "name": "David Bowie Starman (1972) official video-sI66hcu9fIs.mp4",
+            "path": "music_h/videos/David Bowie Starman (1972) official video-sI66hcu9fIs.mp4",
+            "size": 15.982318592
+        },
+        {
+            "name": "Guy Mitchell - Heartache by the Numbers 50s-fmRjgWW8yn0.mp4",
+            "path": "music_h/videos/Guy Mitchell - Heartache by the Numbers 50s-fmRjgWW8yn0.mp4",
+            "size": 4.5508096
+        },
+        {
+            "name": "Buena Vibra Social Sound - Latin goes Ska-dhjBEkb02tU.mp4",
+            "path": "music_h/videos/Buena Vibra Social Sound - Latin goes Ska-dhjBEkb02tU.mp4",
+            "size": 19.432684544
+        },
+        {
+            "name": "Carlos Puebla - Comandante Che Guevara--RYQQ518aEo.mp4",
+            "path": "music_h/videos/Carlos Puebla - Comandante Che Guevara--RYQQ518aEo.mp4",
+            "size": 10.826503168
+        },
+        {
+            "name": "From First To Last - Shame Shame-TPSb7yJeQHs.mp4",
+            "path": "music_h/videos/From First To Last - Shame Shame-TPSb7yJeQHs.mp4",
+            "size": 16.708923392000003
+        },
+        {
+            "name": "Carcass - Incarnated Solvent Abuse [Official Video]-AfjYYh2AWrs.mp4",
+            "path": "music_h/videos/Carcass - Incarnated Solvent Abuse [Official Video]-AfjYYh2AWrs.mp4",
+            "size": 24.731167744
+        },
+        {
+            "name": "Talking Heads - Once In A Lifetime (Official Audio)-fR0jgT9UX0Q.mp4",
+            "path": "music_h/videos/Talking Heads - Once In A Lifetime (Official Audio)-fR0jgT9UX0Q.mp4",
+            "size": 8.883984384
+        },
+        {
+            "name": "Carne de Alquiler-yyYqpZhLLxM.mp4",
+            "path": "music_h/videos/Carne de Alquiler-yyYqpZhLLxM.mp4",
+            "size": 11.208927232
+        },
+        {
+            "name": "Horror Hotel-REYXN8sLNKA.mp4",
+            "path": "music_h/videos/Horror Hotel-REYXN8sLNKA.mp4",
+            "size": 2.42937344
+        },
+        {
+            "name": "A Will Kill Ya--19H6J2k3nw.mp4",
+            "path": "music_h/videos/A Will Kill Ya--19H6J2k3nw.mp4",
+            "size": 5.743572992000001
+        },
+        {
+            "name": "Cygnus... Vismund Cygnus-jnw7Hi6iIKE.mp4",
+            "path": "music_h/videos/Cygnus... Vismund Cygnus-jnw7Hi6iIKE.mp4",
+            "size": 25.1813632
+        },
+        {
+            "name": "Gallo rojo, gallo negro _ Sílvia Pérez Cruz i Raül Fernández-k7KmM8cwiZM.mp4",
+            "path": "music_h/videos/Gallo rojo, gallo negro _ Sílvia Pérez Cruz i Raül Fernández-k7KmM8cwiZM.mp4",
+            "size": 21.697793024000003
+        },
+        {
+            "name": "Hermanos Vega el mecatito-ejYC9ymzKIA.mp4",
+            "path": "music_h/videos/Hermanos Vega el mecatito-ejYC9ymzKIA.mp4",
+            "size": 6.895888384
+        },
+        {
+            "name": "CONJUNTO AZABACHE - QUIEREME COMO TE QUIERO--077-RAYBgo.mp4",
+            "path": "music_h/videos/CONJUNTO AZABACHE - QUIEREME COMO TE QUIERO--077-RAYBgo.mp4",
+            "size": 4.728129536
+        },
+        {
+            "name": "Stone Temple Pilots - Creep (Official Music Video)-sT1DdO3SISg.mp4",
+            "path": "music_h/videos/Stone Temple Pilots - Creep (Official Music Video)-sT1DdO3SISg.mp4",
+            "size": 22.926357504000002
+        },
+        {
+            "name": "Esperando (feat. Tonatiuh Castro Silva)-Bl3qsnm2LP0.mp4",
+            "path": "music_h/videos/Esperando (feat. Tonatiuh Castro Silva)-Bl3qsnm2LP0.mp4",
+            "size": 3.822707712
+        },
+        {
+            "name": "Goldfinger - 99 Red Balloons-p-qfzH0vnOs.mp4",
+            "path": "music_h/videos/Goldfinger - 99 Red Balloons-p-qfzH0vnOs.mp4",
+            "size": 20.448781312
+        },
+        {
+            "name": "ALMA, CORAZON Y VIDA-NYy178y8c4Q.mp4",
+            "path": "music_h/videos/ALMA, CORAZON Y VIDA-NYy178y8c4Q.mp4",
+            "size": 18.896769024
+        },
+        {
+            "name": "Café Tacvba - Eres (Video Oficial)-98Akpf1ph2o.mp4",
+            "path": "music_h/videos/Café Tacvba - Eres (Video Oficial)-98Akpf1ph2o.mp4",
+            "size": 16.477803520000002
+        },
+        {
+            "name": "Coldplay - Lovers in Japan_Reign of love-s_7jJ0sO0Yg.mp4",
+            "path": "music_h/videos/Coldplay - Lovers in Japan_Reign of love-s_7jJ0sO0Yg.mp4",
+            "size": 17.991069696
+        },
+        {
+            "name": "El Texano-lZXtuw1tBrs.mp4",
+            "path": "music_h/videos/El Texano-lZXtuw1tBrs.mp4",
+            "size": 4.805900288
+        },
+        {
+            "name": "Junior H Ft. Natanael Cano - Si Mañana (Letra_Lyric Video) 2020-f8t6MbAigvI.mp4",
+            "path": "music_h/videos/Junior H Ft. Natanael Cano - Si Mañana (Letra_Lyric Video) 2020-f8t6MbAigvI.mp4",
+            "size": 15.77932288
+        },
+        {
+            "name": "''DESCANSA GENERAL'' Los Cadetes De Linares-lOUG3PV4sGw.mp4",
+            "path": "music_h/videos/''DESCANSA GENERAL'' Los Cadetes De Linares-lOUG3PV4sGw.mp4",
+            "size": 4.614569984
+        },
+        {
+            "name": "Chuy vega  Hazlo Por  Mi Corazon-1lbMrOhBut4.mp4",
+            "path": "music_h/videos/Chuy vega  Hazlo Por  Mi Corazon-1lbMrOhBut4.mp4",
+            "size": 3.502092288
+        },
+        {
+            "name": "Caifanes - Amanece (Demo 1 1987)-hHz-M4h_gyQ.mp4",
+            "path": "music_h/videos/Caifanes - Amanece (Demo 1 1987)-hHz-M4h_gyQ.mp4",
+            "size": 6.222431232000001
+        },
+        {
+            "name": "El Cristal De Mi Copa-Hho_3wyI1gk.mp4",
+            "path": "music_h/videos/El Cristal De Mi Copa-Hho_3wyI1gk.mp4",
+            "size": 3.365531648
+        },
+        {
+            "name": "the smiths - barbarism begins at home - TheTube-peh6JCBoznk.mp4",
+            "path": "music_h/videos/the smiths - barbarism begins at home - TheTube-peh6JCBoznk.mp4",
+            "size": 39.504460800000004
+        },
+        {
+            "name": "Gatillazo - Odio a los partidos Directo PintorRock 2017-zqOkKWes5hE.mp4",
+            "path": "music_h/videos/Gatillazo - Odio a los partidos Directo PintorRock 2017-zqOkKWes5hE.mp4",
+            "size": 11.392350208
+        }
+    ],
+    "total_size": 1028.2852700160001
 }
